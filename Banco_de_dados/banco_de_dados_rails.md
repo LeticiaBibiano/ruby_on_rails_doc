@@ -1,8 +1,8 @@
-*Após instalar o rails...
+*Após instalar o rails...*
 
-*Também ganha um banco de dados instalado por padrão: O SQLITE.
+*Também ganha um banco de dados instalado por padrão: O SQLITE.*
 
-*É um banco de dados SQL... 
+*É um banco de dados SQL...* 
 
 
 # COMO UTILIZAR UM BANCO DE DADOS DIFERENTE NA SUA APLICAÇÃO RAILS #
