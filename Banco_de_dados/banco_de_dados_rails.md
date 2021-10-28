@@ -12,8 +12,8 @@
 ~~~
 💲 rails new nome_do_projeto --database=postgresql
 ~~~
+OU
 ~~~
-
 💲 rails new nome_do_projeto --database=mysql
 ~~~
 
@@ -25,9 +25,9 @@
 
 NA PASTA DA APLICAÇÃO:
 
-➡️ Acesse o arquivo config/database.yml
+➡️ Acesse o arquivo *config/database.yml*
 
-⭐ No arquivo database.yml estão todas as configurações de banco de dados.
+⭐ No arquivo *database.yml* estão todas as configurações de banco de dados.
 
 (Por padrão, estarão as configurações do SQLITE)
 
