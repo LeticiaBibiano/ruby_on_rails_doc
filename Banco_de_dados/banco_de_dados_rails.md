@@ -38,3 +38,15 @@ NA PASTA DA APLICAÇÃO:
 
 ------------------------------------------------------------------------ ENJOY!!! 🍾 ----------------------------------------------------------------------
 
+# Rails dbconsole
+
+~~~
+rails dbconsole
+~~~
+É o comando usado para se conectar ao BANCO DE DADOS e executar comandos para inspecioná-lo.
+
+➡️ Para sair do rails dbconsole, digite o comando:
+~~~
+.quit
+~~~
+
