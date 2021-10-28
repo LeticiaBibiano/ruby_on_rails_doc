@@ -30,7 +30,7 @@ NA PASTA DA APLICAÇÃO:
 
 ➡️ Para alterar, basta alterar o arquivo (inteiro) com as configurações do seu banco de dados preferível.
 
-💙 PARA SUA ALEGRIA, aqui estão dois arquivos com as configurações dos bancos [MySQL](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/Banco_de_dados/mysql.database.yml) e PostgreSQL.
+💙 PARA SUA ALEGRIA, aqui estão dois arquivos com as configurações dos bancos [MySQL](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/Banco_de_dados/mysql.database.yml) e [PostgreSQL](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/Banco_de_dados/postgres.database.yml).
 
-ENJOY!!! 🍾
+------------------------------------------------------------------------ ENJOY!!! 🍾 ----------------------------------------------------------------------
 
