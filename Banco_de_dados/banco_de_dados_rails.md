@@ -1,35 +1,36 @@
-Após instalar o rails...
+*Após instalar o rails...
 
-Também ganha um banco de dados instalado por padrão: O SQLITE.
+*Também ganha um banco de dados instalado por padrão: O SQLITE.
 
-É um banco de dados SQL... 
+*É um banco de dados SQL... 
 
 
 # COMO UTILIZAR UM BANCO DE DADOS DIFERENTE NA SUA APLICAÇÃO RAILS #
 
-➤ Inicie sua programação com o seguinte código:
+➡️ Inicie sua programação com o seguinte código:
 
-'$ rails new nome_do_projeto --database=postgresql'
+💲 **rails new nome_do_projeto --database=postgresql**
 
-'$ rails new nome_do_projeto --database=mysql'
+💲 **rails new nome_do_projeto --database=mysql**
 
--> Após o --database= (AQUI VOCÊ BOTA O NOME DO BANCO DE DADOS QUE QUER)
+⚠️ Após o --database= (AQUI VOCÊ BOTA O NOME DO BANCO DE DADOS QUE QUER)
 
 
-## OU ##
+🔻 OU 🔻
 
 
 NA PASTA DA APLICAÇÃO:
-➤ Acesse o arquivo config/database.yml
 
-✰ No arquivo database.yml estão todas as configurações de banco de dados.
+➡️ Acesse o arquivo config/database.yml
+
+⭐ No arquivo database.yml estão todas as configurações de banco de dados.
 
 (Por padrão, estarão as configurações do SQLITE)
 
 
-▶ Para alterar, basta alterar o arquivo (inteiro) com as configurações do seu banco de dados preferível.
+➡️ Para alterar, basta alterar o arquivo (inteiro) com as configurações do seu banco de dados preferível.
 
-❤ PARA SUA ALEGRIA, aqui estão dois arquivos com as configurações dos bancos MySQL e PostgreSQL.
+💙 PARA SUA ALEGRIA, aqui estão dois arquivos com as configurações dos bancos MySQL e PostgreSQL.
 
-ENJOY!!!
+ENJOY!!! 🍾
 
