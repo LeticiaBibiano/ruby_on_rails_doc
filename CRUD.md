@@ -14,7 +14,7 @@
 
 Comando:
 
-💲 *rails generate scaffold <Model (nome da tabela)> <campo:tipo> <campo:tipo> <campo:tipo> *
+💲 rails generate scaffold <Model (nome da tabela)> <campo:tipo> <campo:tipo> <campo:tipo> 
 
 ⭐ Nome do Model é sempre escrito com a primeira letra maiúscula e no singular.
 
