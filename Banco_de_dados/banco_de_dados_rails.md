@@ -9,9 +9,13 @@
 
 ➡️ Inicie sua programação com o seguinte código:
 
-💲 **rails new nome_do_projeto --database=postgresql**
+~~~
+💲 rails new nome_do_projeto --database=postgresql
+~~~
+~~~
 
-💲 **rails new nome_do_projeto --database=mysql**
+💲 rails new nome_do_projeto --database=mysql
+~~~
 
 ⚠️ Após o --database= (AQUI VOCÊ BOTA O NOME DO BANCO DE DADOS QUE QUER)
 
