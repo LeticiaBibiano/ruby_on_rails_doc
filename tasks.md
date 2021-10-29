@@ -23,5 +23,9 @@ rails db:drop   #apaga o db
 rails db:migrate   #executa as migrations
 ~~~
 ~~~
-rails db:rollback   #desfaz a última migration
+rails db:rollback   #desfaz a última migration EXECUTADA
+~~~
++ Desfazer várias migrations de uma vez:
+~~~
+rails db:rollback STEP=2
 ~~~
