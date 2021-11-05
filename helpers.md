@@ -8,13 +8,13 @@
 ## LINK_TO
 *Faz o caminho para o link desejado... utilizar o _path*
 ~~~
-<%= link_to "Nome link que vai aparecer", caminhos_path %>
+💲 <%= link_to "Nome link que vai aparecer", caminhos_path %>
 ~~~
 
 ## IMAGE (IMG)
 *Link para imagem com Ruby, faz a imagem aparecer*
 ~~~
-<%= image_tag coin.url_image, size:"25x25" %> 
+💲 <%= image_tag coin.url_image, size:"25x25" %> 
 ~~~
 
 # CRIANDO O PRÓPRIO HELPER! 😙
