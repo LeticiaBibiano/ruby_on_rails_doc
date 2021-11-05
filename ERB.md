@@ -23,11 +23,11 @@ EOF
 
 # Algumas tags que podemos usar para interpolação no ERB:
 ~~~
-<% Ruby code -- inline with output %>
+<% Ruby code -- interno %>
 
-<%= Ruby expression -- replace with result %>
+<%= Mostra a saída na tela %>
 
-<%# comment -- ignored -- useful in testing %>
+<%# comentar -- ignorar -- usado em testes %>
 
 % a line of Ruby code -- treated as <% line %> (optional -- see ERB.new)
 
