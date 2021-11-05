@@ -20,7 +20,7 @@
 # CRIANDO O PRÓPRIO HELPER! 😙
 *Podemos criar nossos próprios helpers de acordo com as nossas necessidades*
 
-⭐ ** Dentro da pasta APP/HELPERS **
+⭐ **Dentro da pasta APP/HELPERS**
 ➡️ Lá dentro você cria os Helpers e depois basta chama-lo em QUALQUER LUGAR do código.
 
 ⚠️ ATENÇÃO: ORGANIZAR OS HELPERS EM SEUS DEVIDOS ARQUIVOS, o arquivo **APPLICATION_HELPER** é o "geral" para ser usado em toda a aplicação! 
