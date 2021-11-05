@@ -2,6 +2,8 @@
 *90% do tempo estaremos trabalhando no ambiente de Desenvolvimento!*
 
 ## Levantando servidor no modo PRODUÇÃO:
+É o modo OTIMIZADO do Rails, para liberar o projeto final.
+
 ~~~
 RAILS_ENV=production rails s
 ~~~
