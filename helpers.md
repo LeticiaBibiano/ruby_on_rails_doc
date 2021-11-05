@@ -1,5 +1,7 @@
 # Helpers
-São métodos prontos que podem ser usados nas *views*. Esses métodos facilitam a vida do programador, fazendo com que menos código seja escrito para atingir o mesmo resultado.
++ São métodos prontos que podem ser usados nas *views* (front-end). 
++ Esses métodos facilitam a vida do programador, fazendo com que menos código seja escrito para atingir o mesmo resultado.
++ Cada Helper deve ter seu nome ÚNICO e bem específicado.
 
 # Alguns Helpers:
 
