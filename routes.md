@@ -12,12 +12,11 @@ root to: "welcome#index"
 resources :exemplo
 ~~~
 
-| HTTP Verb |	Path |	Controller#Action | Used for |
-|---|---|
-| GET	| /photos |	photos#index |	display a list of all photos |
-| GET |	/photos/new |	photos#new |	return an HTML form for creating a new photo |
-| POST |	/photos	| photos#create | create a new photo |
-| GET	| /photos/:id	| photos#show |	display a specific photo |
-| GET	| /photos/:id/edit |	photos#edit |	return an HTML form for editing a photo |
-| PATCH/PUT	| /photos/:id	| photos#update	| update a specific photo |
-| DELETE | /photos/:id	| photos#destroy	| delete a specific photo |
+#Img: tabela das rotas.
+
+# Criar as próprias rotas:
+*Basta declarar o VERBO; a URL; o CONTROLLER e a ACTION... Exemplo:*
+~~~
+get '/inicio', to: 'welcome#index'
+~~~
+**A rota acima quando digitar url/inicio acessará o controller WELCOME e a ação INDEX**
