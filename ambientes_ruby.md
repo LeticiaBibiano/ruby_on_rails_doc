@@ -11,3 +11,13 @@ OU
 ~~~
 rails s -e production
 ~~~
+# Em qual ambiente estou?
+**Dentro do CONSOLE (rails c)**:
+~~~
+Rails.env
+~~~
+~~~
+Rails.env.development?
+         .production?
+         .test?
+~~~
