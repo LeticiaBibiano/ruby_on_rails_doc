@@ -29,3 +29,16 @@ rails db:rollback   #desfaz a última migration EXECUTADA
 ~~~
 rails db:rollback STEP=2
 ~~~
+## RAILS DB:SEED
++ No arquivo **db/seed.rb** colocamos os dados pré-definidos(iniciais) que queremos na nossa aplicação.  
++ Usamos:
+~~~
+db:seed
+~~~
+*para fazer o preenchimento inicial dos dados.*
+
++ Para apagar os dados existentes e criar novos com os dados SEED:
+~~~
+rails db:drop db:create db:migrate db:seed 
+~~~
+
