@@ -6,6 +6,9 @@
 # SCAFFOLD (CRUD)
 + Quando criamos um CRUD pelo comando scaffold, temos as seguintes rotas:
 
+## MÉTODO PATCH
+
+
 ## INDEX
 
 ## SHOW
