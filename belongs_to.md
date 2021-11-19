@@ -6,3 +6,10 @@
 # Foreign Key (FK)
 + Quando o arquivo do campo termina em "nome_campo_**id**", significa que isso é uma FOREIGN KEY/chave estrangeira (FK) 
 + OU SEJA, você já sabe que o tal campo está relacionado com uma tabela de mesmo nome, porém no PLURAL.
+
+## Após relacionar as tabelas, precisamos alterar o MODEL:
++ Associamos o Model principal á tabela secundária.
++ **No arquivo do Model Principal (DENTRO DO MODEL:
+~~~
+belongs_to :nome_campo
+~~~
