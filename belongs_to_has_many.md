@@ -9,9 +9,20 @@
 
 ## Após relacionar as tabelas, precisamos alterar o MODEL:
 + Associamos o Model principal á tabela secundária.
-+ **No arquivo do Model Principal (DENTRO DO MODEL:
++ **No arquivo do Model Principal (DENTRO DO MODEL):**
 ~~~
     class Coin < ApplicationRecord
       belongs_to :nome_campo
     end
 ~~~
+
+# Associações has_many
++ Basicamente, é o contrário do belong_to.
++ **No arquivo do outro Model que associamos anteriormente:**
+~~~
+        class MiningType < ApplicationRecord
+          has_many :coins #no plural...has_many...tem_muitos
+        end
+~~~
+
+🔴 **= INDA E VINDA DOS DADOS DE AMBAS AS TABELAS**
