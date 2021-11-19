@@ -11,5 +11,7 @@
 + Associamos o Model principal á tabela secundária.
 + **No arquivo do Model Principal (DENTRO DO MODEL:
 ~~~
-belongs_to :nome_campo
+    class Coin < ApplicationRecord
+      belongs_to :nome_campo
+    end
 ~~~
