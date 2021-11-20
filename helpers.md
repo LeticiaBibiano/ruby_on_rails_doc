@@ -30,7 +30,7 @@ form.select("mining_type_id", MiningType.all.collect { |m| [m.description, m.id]
  🔴 **PADRONIZANDO O SELECT AO FLUXO MVC** 🔴
  + Precisamos deixar os dados do MODEL(Banco de Dados) no *controller* e **não diretamente na view**.
  + Devemos criar um método privado (DEF) no controller e dentro do def uma variável de instância (@), para assim, usarmos seu valor na *view*.
- + **Não esquecer do *before_action* **
+ + **Não esquecer do *before_action***
  
 
 
