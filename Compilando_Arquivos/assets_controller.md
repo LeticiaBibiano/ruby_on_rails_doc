@@ -4,7 +4,7 @@
 
 # Passo a passo
 
-1. Remover a linha de código *require_tree* dos arquivos ASSETS (JS e CSS).
+1. Remover a linha de código *require_tree* dos arquivos **APPLICATION** na pasta ASSETS (JS e CSS).
 2. Usamos o código:
 ~~~
     params[:controller] #retorna qual controller está sendo usado
