@@ -8,6 +8,7 @@
 2. Conferir nos arquivos o seguinte:
 
   ✔️ package.json => "jquery": "^3.3.1",
+  
   ✔️ yarn.lock => jquery@^3.3.1:
   
 3. No arquivo 📂**config/webpack/environment.js**
