@@ -3,11 +3,16 @@
 ~~~
  💲 yarn add bootstrap
 ~~~
+O bootstrap utiliza o Popper para algumas funções, sua instalação é opcional:
+~~~
+ 💲 yarn add popper.js
+~~~
+
 
 + Ir até 📂**config/webpack/environment.js**
 ~~~
   const { environment } = require('@rails/webpacker')
-  const { default: Popper } = require('popper.js')
+  const { default: Popper } = require('popper.js') #Se não instalou Popper essa linha não vai existir
 
   const webpack = require('webpack')
   environment.plugins.prepend('Provide',
