@@ -29,10 +29,27 @@ require('jquery')
 
 # Instalando bibliotecas JS:
 
+## Modo 1: pelo Yarn (RECOMENDÁVEL)
+
++ [Site YARN (Procure sua biblioteca aqui!](https://yarnpkg.com/)
++ Instala pelo *yarn add nome-biblioteca*
++ Faz require do arquivo em *application.js*
++ **SIGA O EXEMPLO DO JQUERY ACIMA!**
+
+
+### Modo 2: baixando a biblioteca (não funciona para Rails 6!)
+
+🧧 Dessa forma precisamos COMPILAR os arquivos para dar certo. 
+
 + Baixar a bibioteca
 + Colocar na pasta 📂**app/javascript/packs**
-+ Abrimos a pasta no TERMINAL e:
+
+### Modo 3: pela Gem rails-assets (Antes do Rails 5)
+
++ [Site da Gem RAILS-ASSETS](https://rails-assets.org/#/)
++ Pesquise no 'search' a biblioteca e instale conforme a documentação do site.
++ Para instalar:
 ~~~
- 💲 wget https://link_da_biblioteca
+ 💲 bundle install
 ~~~
 
