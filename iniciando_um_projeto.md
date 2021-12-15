@@ -23,3 +23,10 @@
 💲 rails g controller welcome index
 ~~~
 *isso cria um controller chamado WELCOME com uma ação INDEX*
+
+# Indicando a rota incial para a página inicial criada:
+
++ No arquivo 📂**config/routes.rb**:
+~~~
+root to: 'welcome#index'
+~~~
