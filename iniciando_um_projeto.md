@@ -17,3 +17,9 @@
 *para levantar o servidor*
 
 + Acesse a aplicação em **http://localhost:3000/**
+
+# Criando a página inicial do seu projeto:
+~~~
+💲 rails g controller welcome index
+~~~
+*isso cria um controller chamado WELCOME com uma ação INDEX*
