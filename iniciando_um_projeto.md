@@ -1,6 +1,11 @@
 # Para iniciar um novo projeto:
 ~~~
-💲 rails new nome_do_projeto
+💲 rails new nome_do_projeto #inicia com o BD original do Rails, vulgo SQLite
+~~~
+~~~
+💲 rails new nome_do_projeto --database mysql
+
+ #inicia com o BD mysql, postgresql, etc
 ~~~
 
 + Acesse a pasta com o nome do projeto pelo terminal e:
