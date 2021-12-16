@@ -9,8 +9,12 @@ A simple Ruby On Rails documentation made by me!
 
 🧑‍🤝‍🧑 - Crie a **Área do Usuário e a Área do Administrador** com a [Gem Devise](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/gem_devise.md)
 
+---
+
 🌎 - **SUA APLICAÇ󠁮󠁧󠁿ÃO EM VÁRIOS IDIOMAS** - 🌍
 
    ▶️ [Internacionalização com i18n](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/i18n.md)
 
    ▶️ [Usou o DEVISE??? ENTÃO CLICA AQUI]()
+   
+---
