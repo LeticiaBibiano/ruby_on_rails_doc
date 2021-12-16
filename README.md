@@ -6,3 +6,5 @@ A simple Ruby On Rails documentation made by me!
 2 - [Inicie seu projeto](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/iniciando_um_projeto.md)
 
 ✖️ - [Caso queira iniciar sua aplicação SEM TESTES](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/desabilitando_testes.md)
+
+🧑‍🤝‍🧑 - Crie a **Área do Usuário e a Área do Administrador** com a [Gem Devise](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/gem_devise.md)
