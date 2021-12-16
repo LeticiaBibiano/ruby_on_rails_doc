@@ -11,6 +11,6 @@ A simple Ruby On Rails documentation made by me!
 
 🌎 - **SUA APLICAÇ󠁮󠁧󠁿ÃO EM VÁRIOS IDIOMAS** - 🌍
 
-++ [Internacionalização com i18n](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/i18n.md)
+      ▶️ [Internacionalização com i18n](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/i18n.md)
 
-++ [Usou o DEVISE??? ENTÃO CLICA AQUI]()
+      ▶️ [Usou o DEVISE??? ENTÃO CLICA AQUI]()
