@@ -7,7 +7,13 @@ A simple Ruby On Rails documentation made by me!
 
 ✖️ - [Caso queira iniciar sua aplicação SEM TESTES](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/desabilitando_testes.md)
 
-🧑‍🤝‍🧑 - Crie a **Área do Usuário e a Área do Administrador** com a [Gem Devise](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/gem_devise.md)
+---
+
+🧑‍🤝‍🧑 - Crie a **Área do Usuário e a Área do Administrador** - 🫂 
+
+   ▶️ Proteja cada Área com Login e Senha usando a [GEM DEVISE](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/gem_devise.md)
+   
+   ▶️ Crie sua(s) Área(s), vulgo BACKOFFICE [AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/backoffice.md)
 
 ---
 
@@ -15,6 +21,6 @@ A simple Ruby On Rails documentation made by me!
 
    ▶️ [Internacionalização com i18n](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/i18n.md)
 
-   ▶️ [Usou o DEVISE??? ENTÃO CLICA AQUI]()
+   ▶️ [Usou o DEVISE??? ENTÃO CLICA AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/i18n_devise.md)
    
 ---
