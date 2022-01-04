@@ -17,3 +17,12 @@ class AdminsBackoffice::WelcomeController < ApplicationController
 end
 ~~~
 *Caso nenhum layout seja especificado, o Rails utilizará o PADRÃO (application.html.erb).
+
+## Os novos Layouts devem ter seus próprios *CONTROLLERS*:
+
++ Criar controller com o nome do layout:
+~~~
+💲 rails g controller nome_layout 
+
+💲 rails g controller admins_backoffice #exemplo
+~~~
