@@ -1,4 +1,4 @@
-# Layout
+# Layout APPLICATION
 + É a maior parte do template, que sempre carrega em TODAS AS PÁGINAS.
 + 📂**APP/VIEWS/LAYOUTS**/application.html.erb
 
