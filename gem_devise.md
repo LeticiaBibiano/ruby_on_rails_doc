@@ -43,7 +43,20 @@ config.scoped_views = true
 💲 rails generate devise:views users #NOME DA VIEW NO PLURAL
 ~~~
 
-### Para finalizar:
+### Para finalizar a instalação:
 ~~~
 💲 rails db:migrate
 ~~~
+
+# Protegendo com login e senha
+
++ No ***CONTROLLER*** da "área":
+*Supondo que _user sejá o nome do Model, ex: user, admin*
+~~~
+  before_action :authenticate_user!
+~~~
+
+
+
+
+
