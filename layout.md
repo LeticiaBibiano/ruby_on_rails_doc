@@ -8,4 +8,12 @@
 ~~~
 layout "exemplo"
 ~~~
++ Exemplo de arquivo CONTROLLER
+~~~
+class AdminsBackoffice::WelcomeController < ApplicationController
+  layout 'admins_backoffice'
+  def index
+  end
+end
+~~~
 *Caso nenhum layout seja especificado, o Rails utilizará o PADRÃO (application.html.erb).
