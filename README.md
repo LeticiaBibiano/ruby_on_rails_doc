@@ -17,7 +17,9 @@ A simple Ruby On Rails documentation made by me! (In portuguese 🇧🇷)
    ▶️ Crie sua(s) Área(s), vulgo BACKOFFICE [AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/backoffice.md)
    
    ▶️ Como cadastrar Usuários e Administradores [AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/usuario_admin_padrao.md)
-
+   
+   ⛑️ [Helpers](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/helpers_devise.md) da **GEM DEVISE**
+   
 ---
 
 🌎 - **SUA APLICAÇ󠁮󠁧󠁿ÃO EM VÁRIOS IDIOMAS** - 🌍
