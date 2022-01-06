@@ -7,6 +7,11 @@
 
 *A task será = nome:funcao (dev:setup)
 
++ PARA RODAR A TASK CRIADA:
+~~~
+💲 rails dev:setup
+~~~
+
 + Ficará no local **lib/tasks/nome.rake**
 + Exemplo de arquivo:
 ~~~
