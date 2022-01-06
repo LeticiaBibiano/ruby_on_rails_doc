@@ -1,8 +1,11 @@
 # Podemos criar nossas próprias tasks!
 ~~~
-rails g task nome função
+💲 rails g task nome função
+
+💲 rails g task dev setup #exemplo
 ~~~
-*A task será = nome:funcao
+
+*A task será = nome:funcao (dev:setup)
 
 + Ficará no local **lib/tasks/nome.rake**
 
