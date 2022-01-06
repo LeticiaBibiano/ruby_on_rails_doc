@@ -15,6 +15,8 @@ A simple Ruby On Rails documentation made by me! (In portuguese 🇧🇷)
    ▶️ Proteja cada Área com Login e Senha usando a [GEM DEVISE](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/gem_devise.md)
    
    ▶️ Crie sua(s) Área(s), vulgo BACKOFFICE [AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/backoffice.md)
+   
+   ▶️ Como cadastrar Usuários e Administradores [AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/usuario_admin_padrao.md)
 
 ---
 
