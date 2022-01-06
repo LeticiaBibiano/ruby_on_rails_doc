@@ -18,6 +18,8 @@ A simple Ruby On Rails documentation made by me! (In portuguese 🇧🇷)
    
    ▶️ Como cadastrar Usuários e Administradores [AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/usuario_admin_padrao.md)
    
+   ▶️ Para criar LOGOFF para Users e Admins [CLICA AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/logoff_devise.md)
+   
    ⛑️ [Helpers](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/helpers_devise.md) da **GEM DEVISE**
    
 ---
