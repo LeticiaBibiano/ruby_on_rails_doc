@@ -19,3 +19,22 @@
 
 🥸 ***DESSA FORMA DISPONIBILIZAMOS OS TEMAS LOCALMENTE!*** 🤓
 
+# Agora, vamos usar o tema no local da aplicação:
+
++ Remover o Turbolinks (Pois pode conflitar com o tema).
+  1. Vá no Gemfile e comente a gem #turbolinks.
+  2. Remover Tubolinks do arquivo ***application.js***.
+  3. Remover o *media: turbolinks* de todos os 📁***LAYOUTS***
+
++ Abrir o tema no localhost, analisar e copiar o que você quer...
++ COLAR na view do projeto e fazer as devidas alterações!
+
++ Em ***application.CSS*** e ***application.JS***, retirar o *require_tree* = PARA NÃO PEGAR TODOS OS ARQUIVOS DE UMA VEZ!
+
++ Verificar quais as BIBLIOTECAS usadas no template para instalar no projeto e fazer o TEMA FUNCIONAR:
++ ACHOU AS VERSÕES DAS BIBLIOTECAS?? ➡️ Pois agora, instale via [YARN](https://yarnpkg.com/)
+~~~
+💲 yarn add bootstrap@3.3.7 #VERIFIQUE A VERSÃO
+~~~
+
+
