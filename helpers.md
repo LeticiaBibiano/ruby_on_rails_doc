@@ -27,6 +27,14 @@ select(object, "nome_campo_id", choices = nil, options = {}, html_options = {}, 
 form.select("mining_type_id", MiningType.all.collect { |m| [m.description, m.id] }, { include_blank: "Select..." })
 ~~~
 
+## FORM_WITH
+~~~
+<%= form_with(model: [ :nome_do_name_space, @variável_com_dados ]) do |form| %>
+
+<% end %>
+~~~
+
+
  🔴 **PADRONIZANDO O SELECT AO FLUXO MVC** 🔴
  + Precisamos deixar os dados do MODEL(Banco de Dados) no *controller* e **não diretamente na view**.
  + Devemos criar um método privado (DEF) no controller e dentro do def uma variável de instância (@), para assim, usarmos seu valor na *view*.
