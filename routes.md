@@ -7,9 +7,13 @@ root to: "welcome#index"
 ~~~
 
 # RESOURCES
-*Cria as 7 rotas padrão do CRUD*, apenas com:
+*Cria as 7 rotas padrão do CRUD* (index, new, create, delete, edit, show, update) apenas com:
 ~~~
 resources :exemplo
+~~~
+*Para habilitar APENAS as rotas escolhidas:
+~~~
+resources :admins, only: [:index, :edit]
 ~~~
 
 #Img: tabela das rotas.
