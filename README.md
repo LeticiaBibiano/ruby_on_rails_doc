@@ -31,3 +31,8 @@ A simple Ruby On Rails documentation made by me! (In portuguese 🇧🇷)
    ▶️ Usou o DEVISE??? [ENTÃO CLICA AQUI](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/i18n_devise.md)
    
 ---
+
+[📘 - **Como usar bibliotecas JavaScript em sua aplicação** - 📖](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/biblioteca_JS.md)
+
+---
+
