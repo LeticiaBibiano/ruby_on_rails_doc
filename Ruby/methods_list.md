@@ -23,3 +23,5 @@ Então... agora que A e B foram EXTRACT!
 
 H = { c: 3, d: 4 } #O que sobra na variável são os elementos NÃO EXTRACT!
 ~~~
+
++ strip
