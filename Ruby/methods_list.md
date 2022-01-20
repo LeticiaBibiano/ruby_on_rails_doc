@@ -25,3 +25,10 @@ H = { c: 3, d: 4 } #O que sobra na variável são os elementos NÃO EXTRACT!
 ~~~
 
 + strip
+
++ truncate
+~~~
+# Determina o número máximo de caracteres a serem exibidos e mostra "..." no final #
+
+      <%= quest.description.truncate(50) %>
+~~~
