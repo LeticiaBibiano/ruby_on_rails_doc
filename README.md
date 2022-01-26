@@ -22,6 +22,9 @@ A simple Ruby On Rails documentation made by me! (In portuguese 🇧🇷)
    
    ⛑️ [Helpers](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/helpers_devise.md) da **GEM DEVISE**
    
+   ▶️  Layout para telas de LOGIN [AQUII](https://github.com/LeticiaBibiano/ruby_on_rails_doc/blob/main/devise_controller.md)
+   
+   
 ---
 
 🌎 - **SUA APLICAÇ󠁮󠁧󠁿ÃO EM VÁRIOS IDIOMAS** - 🌍
